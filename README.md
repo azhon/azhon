@@ -3,6 +3,6 @@
 <a href="https://azhon.blog.csdn.net">
   <img src="https://img.shields.io/badge/📖%20CSDN-brightgreen" />
 </a>
-<a href="https://github.com/azhon/AppUpdate/blob/main/img/qq_group.png">
+<a href="https://github.com/azhon/AppUpdate/blob/main/img/qq_group_0.jpg">
   <img src="https://img.shields.io/badge/🐧%20加入QQ群-yellow" />
 </a>
